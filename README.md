@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/faithngetich/-Healthchecks_Mugiwara.svg?branch=master)](https://travis-ci.org/faithngetich/-Healthchecks_Mugiwara)
+[![Coverage Status](https://coveralls.io/repos/github/faithngetich/-Healthchecks_Mugiwara/badge.svg?branch=master)](https://coveralls.io/github/faithngetich/-Healthchecks_Mugiwara?branch=master)
+
 # healthchecks
 
 ![Screenshot of Welcome page](/stuff/screenshots/welcome.png?raw=true "Welcome Page")
